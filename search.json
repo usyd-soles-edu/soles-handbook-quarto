@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto handbook template",
+    "section": "",
+    "text": "Warning\n\n\n\nThis template is being actively developed and is not yet ready for use."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Quarto handbook template",
+    "section": "Welcome",
+    "text": "Welcome\nThis is a starter template for writing a lab or unit handbook using the Quarto document system. It is designed to be quick and easy to use."
+  },
+  {
+    "objectID": "index.html#main-features",
+    "href": "index.html#main-features",
+    "title": "Quarto handbook template",
+    "section": "Main features",
+    "text": "Main features\n\nFollows The University of Sydney branding guidelines for logo.\nNeutral colour scheme – easy to customise.\nPublishes to GitHub Pages automatically (if forked via GitHub Actions).\n\n\n\n\n\n\n\nTip\n\n\n\nCheck the top navbar and the sidebar for examples of different types of content."
+  },
+  {
+    "objectID": "frontpage-01.html",
+    "href": "frontpage-01.html",
+    "title": "BIOL0000 - Course Title",
+    "section": "",
+    "text": "Handbook"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this course",
+    "section": "",
+    "text": "Cat ipsum dolor sit amet, see brother cat receive pets, attack out of jealousy, and demand to have some of whatever the human is cooking, then sniff the offering and walk away and meow meow you are my owner so here is a dead rat. Kitten is playing with dead mouse stare at ceiling, or stare at ceiling light stare out the window but eat the fat cats food."
+  },
+  {
+    "objectID": "about.html#bi-patch-check-fill-what-to-expect",
+    "href": "about.html#bi-patch-check-fill-what-to-expect",
+    "title": "About this course",
+    "section": " What to expect",
+    "text": "What to expect\n\nCat ipsum dolor sit amet, meow to be let in. If it fits, i sits jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog.\nCat slides down the water slide and into pool and swims even though it does not like water. Refuse to come home when humans are going to bed; stay out all night then yowl like dying at 4am.\nIt’s 3am, time to create some chaos loves cheeseburgers pet my belly, you know you want to; seize the hand and shred it! Knock over christmas tree ooooh feather moving feather!\nShove bum in owner’s face like camera lens fish i must find my red catnip fishy fish. Hey! you there, with the hands love to play with owner’s hair tie so in the middle of the night i crawl onto your chest and purr gently to help you sleep."
+  },
+  {
+    "objectID": "about.html#bi-people-fill-staff-info",
+    "href": "about.html#bi-people-fill-staff-info",
+    "title": "About this course",
+    "section": " Staff info",
+    "text": "Staff info\n\nUnit coordinator\nDr. Mckenzie Bryant Ipsum\n6928231202\nmbryant55@tnayrbeiznekcm.biz\n\n\nLecturers\nDr. Donte Day Ipsum\n6913353589\ndday253@yadetnod.net\nDr. Kira Hawkins Ipsum\n6684589592\nkhawkins48@snikwaharik.com\n\n\nDemonstrators\n\nHillary Horton Ipsum – Ecology\nKendall Jacobs Ipsum – Microbiology\nKarla Aguilar Ipsum – Data Science\nCarolina Williams Ipsum – Genetics\nCallie Santos Ipsum – Agriculture\nTanisha Blake Ipsum – Ecology\nEbony Lawrence Ipsum – Agriculture"
+  },
+  {
+    "objectID": "conduct.html",
+    "href": "conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "It is a condition of enrolment that you understand your responsibilities and observe the Student Charter. The Current Students website also provides an overview of your responsibilities as a student at The University of Sydney."
+  },
+  {
+    "objectID": "conduct.html#academic-honesty-and-plagiarism",
+    "href": "conduct.html#academic-honesty-and-plagiarism",
+    "title": "Code of Conduct",
+    "section": "Academic honesty and plagiarism",
+    "text": "Academic honesty and plagiarism\nThe University of Sydney takes academic honesty and plagiarism very seriously. The University has policies and procedures in place to promote academic honesty and manage academic misconduct. It is your responsibility to be familiar with these policies and procedures. You can find information about academic honesty, plagiarism, and other academic integrity matters on the Academic Integrity website."
+  },
+  {
+    "objectID": "conduct.html#use-of-ai",
+    "href": "conduct.html#use-of-ai",
+    "title": "Code of Conduct",
+    "section": "Use of AI",
+    "text": "Use of AI\nIn general, the University does not permit use of artificial intelligence content generators and tools to create or modify your assessable work, unless permission has been granted by the unit of study coordinator.\nIn this unit, we allow the use of AI content generators and tools for the following code-related tasks only:\n\nAI paired programming, e.g generate code that you will then modify and extend to complete a statistical analysis or data science task.\nTroubleshooting and debugging your code, e.g. improve your code or to fix errors in your code, by pasting the code and error message in the AI content generator and then asking it for help.\nGenerate data, e.g. random number generation for sampling, or to generate data to simulate an experimental design.\n\nYou cannot use AI content generators and tools to create assessable work that is not code-related, e.g. to generate a report or essay, or to generate discussions or answers to questions.\nIf you use AI, you must include a statement in your submitted work that you have used AI tools in completing the work and how you have done this. Your assessment descriptions will include more details about how to do this."
+  }
+]
