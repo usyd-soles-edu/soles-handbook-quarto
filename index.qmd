@@ -1,0 +1,34 @@
+---
+title: Quarto handbook template
+subtitle: School of Life and Environmentals Sciences (SOLES)
+author:
+  - name: Januar Harianto
+date: last-modified # today | last-modified
+date-format: "MMM YYYY" # see https://momentjs.com/docs/#/displaying/format/
+markdown:
+    canonical: true
+---
+
+:::{.callout-warning}
+**This template is being actively developed and is not yet ready for use.**
+:::
+
+:::{.callout-note}
+The SOLES Quarto handbook template is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. You are free to share and adapt this template as long as you give appropriate credit, provide a link to the license, and indicate if changes were made. 
+
+**There is no requirement that you share the document you produce with this template under the same license.**
+:::
+
+## Welcome
+
+This is a starter template for writing a lab or unit handbook using the [Quarto](https://quarto.org) document system. It is designed to be quick and easy to use.
+
+## Main features
+
+- Follows The University of Sydney branding guidelines for logo.
+- Neutral colour scheme -- easy to customise.
+- Publishes to GitHub Pages automatically (if forked via GitHub Actions).
+
+:::{.callout-tip}
+**Check the top navbar and the sidebar for examples of different types of content.**
+:::

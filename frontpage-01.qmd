@@ -1,0 +1,12 @@
+---
+title: BIOL0000 - Course Title
+subtitle: School of Life and Environmentals Sciences (SOLES)
+date: last-modified # today | last-modified
+date-format: "MMM YYYY" # see https://momentjs.com/docs/#/displaying/format/
+markdown:
+    canonical: true
+---
+
+# Handbook
+
+

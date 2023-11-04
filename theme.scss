@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif;
+
+/*-- scss:rules --*/
+
+$aubergine90: #664272;
+$ruby90: #A42B28;
+$sky90: #195387;
+$green90: #4E7242;
+$russet90: #874E19;
+
+$callout-color-note: $sky90;
+$callout-color-important: $ruby90;
+$callout-color-tip: $green90;
+$callout-color-caution: $aubergine90;
+$callout-color-warning: $russet90;

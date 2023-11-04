@@ -1,0 +1,23 @@
+---
+title: Code of Conduct
+---
+
+It is a condition of enrolment that you understand your responsibilities and observe the [Student Charter](https://www.sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/215&RendNum=0). The [Current Students](https://www.sydney.edu.au/students/student-responsibilities.html) website also provides an overview of your responsibilities as a student at The University of Sydney.
+
+## Academic honesty and plagiarism
+
+The University of Sydney takes academic honesty and plagiarism very seriously. The University has policies and procedures in place to promote academic honesty and manage academic misconduct. It is your responsibility to be familiar with these policies and procedures. You can find information about academic honesty, plagiarism, and other academic integrity matters on the [Academic Integrity](https://www.sydney.edu.au/students/academic-integrity.html) website.
+
+## Use of AI
+
+In general, the University does **not** permit use of artificial intelligence content generators and tools to create or modify your assessable work, unless permission has been granted by the unit of study coordinator. 
+
+In this unit, we **allow** the use of AI content generators and tools for the following code-related tasks only:
+
+- **AI paired programming**, e.g generate code that you will then modify and extend to complete a statistical analysis or data science task.
+- **Troubleshooting and debugging your code**, e.g. improve your code or to fix errors in your code, by pasting the code and error message in the AI content generator and then asking it for help.
+- **Generate data**, e.g. random number generation for sampling, or to generate data to simulate an experimental design.
+
+You cannot use AI content generators and tools to create assessable work that is **not code-related**, e.g. to generate a report or essay, or to generate discussions or answers to questions.
+
+**If you use AI, you must include a statement in your submitted work that you have used AI tools in completing the work and how you have done this.** Your assessment descriptions will include more details about how to do this.
